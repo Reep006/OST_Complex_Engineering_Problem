@@ -3,5 +3,6 @@ OST Complex Engineering Problem
 This project demonstrates Git repository documentation, branching,
 commit conventions, issue templates, and merge conflict resolution.
 
-Feature branch version:
-The project documentation is being improved with new development changes.
+Final merged version:
+The project documentation is maintained as the stable version
+while incorporating improvements from the feature branch.
