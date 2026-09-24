@@ -1,0 +1,5 @@
+OST Complex Engineering Problem
+
+This sample project is created to demonstrate Git repository management,
+documentation improvement, branching, commits, pull requests, and
+conflict resolution.
